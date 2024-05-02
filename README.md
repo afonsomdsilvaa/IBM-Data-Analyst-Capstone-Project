@@ -1,6 +1,6 @@
 # IBM Capstone Project
 
-Welcome to my data analytics capstone project focused on IBM! Within this project, I undertake the role of a Data Analyst for a prominent international IT and business consulting organization recognized for its excellence in IT solutions and its cadre of highly skilled IT professionals.
+Welcome to my data analytics capstone project! Within this project, I undertake the role of a Data Analyst for a prominent international IT and business consulting organization recognized for its excellence in IT solutions and its cadre of highly skilled IT professionals.
 
 ## Project Overview
 
